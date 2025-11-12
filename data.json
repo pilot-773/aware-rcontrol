@@ -1,10 +1,15 @@
 {
   "RESTAURANT": {
     "warning": {
+      "AvailableIcons": "Warning or Error or Question - This here isn't used in the code, consider it a comment (json hates comments)",
       "warningActive": false,
+      "FunnyMessage": "Uh-oh, we found a critical issue",
       "warningIcon": "warning",
+      "warningTitle": "Nuclear Vulnerability",
       "warningMessage": "This system is filled with nuclear toiletpaper...",
-      "versionsAffected": "<1.0.0"
+      "warningSidenote": "Proceed with caution............"
+      "warningDisablePOS": "false",
+      "versionsAffected": "<1.0.0" 
     },
     "versionDisablement": [
       "1.0.0",
