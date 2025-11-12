@@ -1,5 +1,15 @@
 {
   "SCO": {
-    
-  }
+    "warning": {
+      warningActive: false,
+      warningIcon: "warning",
+      warningMessage = "This system is filled with nuclear toiletpaper...",
+      versionsAffected = "<1.0.0"
+    },
+    "versionDisablement": {
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+   },
 }
