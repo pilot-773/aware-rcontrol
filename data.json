@@ -1,59 +1,59 @@
 {
-  "RESTAURANT": {
-    "warning": {
-      "AvailableIcons": "Warning or Error or Question - This here isn't used in the code, consider it a comment (json hates comments)",
-      "warningActive": true,
-      "FunnyMessage": "Uh-oh, we found a testing issue",
-      "warningIcon": "warning",
-      "warningTitle": "Nuclear Vulnerability",
-      "warningMessage": "We're quite obviously testing rControl, this is a bit filled with useless information, but this is what's gonna show up in your game, if WarningDisablePOS is on (because of a vulnerability) it locks the POS and only shows this message.",
-      "warningSidenote": "Proceed with caution............"
-      "warningDisablePOS": "false",
-      "versionsAffected": "<1.0.0" 
-    },
-    "versionDisablement": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3"
-    ]
-  },
-  "TICKETPOS": {
-    "warning": {
-      "AvailableIcons": "Warning or Error or Question - This here isn't used in the code, consider it a comment (json hates comments)",
-      "warningActive": false,
-      "FunnyMessage": "Uh-oh, we found a critical issue",
-      "warningIcon": "warning",
-      "warningTitle": "Nuclear Vulnerability",
-      "warningMessage": "This system is filled with nuclear toiletpaper...",
-      "warningSidenote": "Proceed with caution............"
-      "warningDisablePOS": "false",
-      "versionsAffected": "<1.0.0" 
-    },
-    "versionDisablement": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3"
-    ]
-  },
-  "SELFCHECKOUT": {
-    "warning": {
-      "AvailableIcons": "Warning or Error or Question - This here isn't used in the code, consider it a comment (json hates comments)",
-      "warningActive": false,
-      "FunnyMessage": "Uh-oh, we found a critical issue",
-      "warningIcon": "warning",
-      "warningTitle": "Nuclear Vulnerability",
-      "warningMessage": "This system is filled with nuclear toiletpaper...",
-      "warningSidenote": "Proceed with caution............"
-      "warningDisablePOS": "false",
-      "versionsAffected": "<1.0.0" 
-    },
-    "versionDisablement": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3"
-    ]
-  }
+	"RESTAURANT": {
+		"warning": {
+			"AvailableIcons": "Warning or Error or Question - This here isn't used in the code, consider it a comment (json hates comments)",
+			"warningActive": true,
+			"FunnyMessage": "Uh-oh, we found a testing issue",
+			"warningIcon": "warning",
+			"warningTitle": "Nuclear Vulnerability",
+			"warningMessage": "We're quite obviously testing rControl, this is a bit filled with useless information, but this is what's gonna show up in your game, if WarningDisablePOS is on (because of a vulnerability) it locks the POS and only shows this message.",
+			"warningSidenote": "Proceed with caution............",
+			"warningDisablePOS": "false",
+			"versionsAffected": "<1.0.0"
+		},
+		"versionDisablement": [
+			"1.0.0",
+			"1.0.1",
+			"1.0.2",
+			"1.0.3"
+		]
+	},
+	"TICKETPOS": {
+		"warning": {
+			"AvailableIcons": "Warning or Error or Question - This here isn't used in the code, consider it a comment (json hates comments)",
+			"warningActive": false,
+			"FunnyMessage": "Uh-oh, we found a critical issue",
+			"warningIcon": "warning",
+			"warningTitle": "Nuclear Vulnerability",
+			"warningMessage": "This system is filled with nuclear toiletpaper...",
+			"warningSidenote": "Proceed with caution............",
+			"warningDisablePOS": "false",
+			"versionsAffected": "<1.0.0"
+		},
+		"versionDisablement": [
+			"1.0.0",
+			"1.0.1",
+			"1.0.2",
+			"1.0.3"
+		]
+	},
+	"SELFCHECKOUT": {
+		"warning": {
+			"AvailableIcons": "Warning or Error or Question - This here isn't used in the code, consider it a comment (json hates comments)",
+			"warningActive": false,
+			"FunnyMessage": "Uh-oh, we found a critical issue",
+			"warningIcon": "warning",
+			"warningTitle": "Nuclear Vulnerability",
+			"warningMessage": "This system is filled with nuclear toiletpaper...",
+			"warningSidenote": "Proceed with caution............",
+			"warningDisablePOS": "false",
+			"versionsAffected": "<1.0.0"
+		},
+		"versionDisablement": [
+			"1.0.0",
+			"1.0.1",
+			"1.0.2",
+			"1.0.3"
+		]
+	}
 }
